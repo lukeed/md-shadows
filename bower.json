@@ -1,0 +1,32 @@
+{
+  "name": "md-dropdown",
+  "version": "0.0.0",
+  "description": "Material Design dropdown component for Riot.js.", 
+  "authors": [
+    {"name": "Luke Edwards", "email": "luke@lukeed.com", "homepage": "https://github.com/lukeed"}
+  ],
+  "keywords": [
+    "riot",
+    "riotjs",
+    "riot-tag",
+    "md-dropdown"
+  ],
+  "main": "md-dropdown.tag",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/lukeed/md-dropdown/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "riot": "^2.3.0"
+  },
+  "devDependencies": {
+  }
+}
