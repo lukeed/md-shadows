@@ -42,13 +42,15 @@ Output:
 
 ## API
 
-+md-color(level, [color])
+### +md-color(depth, [color])
 
-#### level
+Add a shadow to an element, using the mixin.
+
+#### depth
 
 Type: `integer`
 
-The height of the shadow. Smaller numbers represent "shorter", denser shadows. 
+The depth of the shadow. Smaller numbers represent "shorter", denser shadows. 
 
 Range:
 * `0` is no shadow
