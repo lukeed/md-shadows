@@ -1,17 +1,19 @@
 {
-  "name": "md-dropdown",
-  "version": "0.0.0",
-  "description": "Material Design dropdown component for Riot.js.", 
-  "authors": [
-    {"name": "Luke Edwards", "email": "luke@lukeed.com", "homepage": "https://github.com/lukeed"}
-  ],
+  "name": "md-shadows",
+  "description": "Material Design shadows as SASS mixins, classes, and extensions.",
+  "authors": [{
+  	"name": "Luke Edwards",
+  	"email": "luke@lukeed.com",
+  	"homepage": "https://github.com/lukeed"
+  }],
   "keywords": [
-    "riot",
-    "riotjs",
-    "riot-tag",
-    "md-dropdown"
+    "material design",
+    "sass",
+    "scss",
+    "mixin",
+    "extension"
   ],
-  "main": "md-dropdown.tag",
+  "main": "md-shadows.sass",
   "moduleType": [
     "amd"
   ],
@@ -24,9 +26,6 @@
     "test",
     "tests"
   ],
-  "dependencies": {
-    "riot": "^2.3.0"
-  },
-  "devDependencies": {
-  }
+  "dependencies": {},
+  "devDependencies": {}
 }
