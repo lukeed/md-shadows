@@ -8,17 +8,15 @@
   }],
   "keywords": [
     "material design",
+    "shadows",
     "sass",
-    "scss",
-    "mixin",
-    "extension"
+    "scss"
   ],
   "main": "md-shadows.sass",
   "moduleType": [
     "amd"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/lukeed/md-dropdown/",
   "ignore": [
     "**/.*",
     "node_modules",

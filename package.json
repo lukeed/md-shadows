@@ -1,0 +1,31 @@
+{
+  "name": "md-shadows",
+  "version": "1.0.0",
+  "description": "Material Design shadows as SASS mixins, classes, and extensions.",
+  "main": "md-shadows.sass",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukeed/md-shadows.git"
+  },
+  "keywords": [
+    "material",
+    "design",
+    "shadows",
+    "sass",
+    "scss",
+    "md"
+  ],
+  "author": {
+    "name": "Luke Edwards",
+    "email": "luke@lukeed.com",
+    "url": "https://lukeed.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lukeed/md-shadows/issues"
+  },
+  "homepage": "https://github.com/lukeed/md-shadows#readme"
+}
